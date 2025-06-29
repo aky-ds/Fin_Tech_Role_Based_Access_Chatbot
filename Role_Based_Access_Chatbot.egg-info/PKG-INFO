@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: Role-Based-Access-Chatbot
+Version: 0.1
+Summary: A chatbot that provides role-based access to users
+Author: Ayaz ul haq 
+Author-email: syedthescientist@gmail.com
+Requires-Dist: streamlit==1.36.0
+Requires-Dist: langchain_groq
+Requires-Dist: langchain_google_genai
+Requires-Dist: chromadb
+Requires-Dist: langchain_community
+Requires-Dist: python-dotenv

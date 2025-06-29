@@ -1,0 +1,13 @@
+README.md
+setup.py
+Role_Based_Access_Chatbot.egg-info/PKG-INFO
+Role_Based_Access_Chatbot.egg-info/SOURCES.txt
+Role_Based_Access_Chatbot.egg-info/dependency_links.txt
+Role_Based_Access_Chatbot.egg-info/requires.txt
+Role_Based_Access_Chatbot.egg-info/top_level.txt
+chat/__init__.py
+chat/chat.py
+database/__init__.py
+database/db.py
+embeddings/__init__.py
+embeddings/embeddings.py
