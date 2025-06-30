@@ -41,7 +41,7 @@ if vectorstore._collection.count() == 0:
 # -------------------------------------------------------------------
 # 4️⃣ Chat Model & RetrievalQA
 # -------------------------------------------------------------------
-llm = ChatGroq(model="gemma2-9b-it")  # Chat model
+llm = ChatGroq(model="llama3-70b-8192")  # Chat model
 qa = RetrievalQA.from_chain_type(
     llm=llm,
     retriever=vectorstore.as_retriever()
