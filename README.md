@@ -30,9 +30,6 @@
 
 ## 📦 Installation
 
-### 1. Clone the Repo
-
-```bash
 git clone https://github.com/codebasics/ds-rpc-01.git
 cd ds-rpc-01
 
